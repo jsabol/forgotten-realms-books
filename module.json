@@ -1,0 +1,19 @@
+{
+  "name": "forgotten-realms-books",
+  "title": "Forgotten Realms Books",
+  "description": "A collection of books from the Forgotten Realms, copied from the Baldur's Gate 3 and Forgotten Realms wikis.",
+  "author": "Cattegy",
+  "version": "1.0.0",
+  "minimumCoreVersion": "0.5.0",
+  "compatibleCoreVersion": "0.7.7",
+  "packs": [
+    {
+      "name": "books",
+      "label": "Forgotten Realms Books",
+      "path": "packs/books.db",
+      "entity": "Item",
+      "module": "forgotten-realms-books",
+      "system": "dnd5e"
+    }
+  ]
+}
