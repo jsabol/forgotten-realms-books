@@ -10,6 +10,7 @@
   "license": "LICENSE",
   "readme": "README.md",
   "download": "https://github.com/jsabol/forgotten-realms-books/archive/v1.0.0.zip",
+  "system": "dnd5e",
   "packs": [
     {
       "name": "books",
